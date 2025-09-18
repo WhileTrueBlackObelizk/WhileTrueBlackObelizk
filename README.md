@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=FOLLOW+THE+WHITE+RABBIT;DOWN+THE+RABBIT+HOLE;WELCOME+TO+THE+MATRIX;DEEPSTATE+ACTIVATED" alt="Matrix Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=FOLLOW+THE+WHITE+RABBIT;DOWN+THE+RABBIT+HOLE;WELCOME+TO+THE+MATRIX;DEEPSTATE+ACTIVATED" alt="Matrix Typing" />
 
 ![Matrix Rain](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
