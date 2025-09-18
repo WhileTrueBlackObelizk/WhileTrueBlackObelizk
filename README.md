@@ -25,7 +25,7 @@ WhileTrueBlackObelizk@matrix:~$ ./enter_matrix.sh
 
 <img src="https://github-readme-stats.vercel.app/api?username=WhileTrueBlackObelizk&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=00ff00&bg_color=000000&border_color=ff0000" alt="Matrix Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WhileTrueBlackObelizk&theme=radical&background=000000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=ff0000&sideLabels=ff0000&dates=ff0000" alt="Digital Traces" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WhileTrueBlackObelizk&theme=radical&background=000000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=ff0000&sideLabels=ff0000&dates=ffffff" alt="Digital Traces" />
 
 </div>
 
