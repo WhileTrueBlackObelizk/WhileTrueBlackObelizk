@@ -1,8 +1,6 @@
 <div align="center">
 
-# ⚫ BLACK OBELIZK ⚫
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=FOLLOW+THE+WHITE+RABBIT;DOWN+THE+RABBIT+HOLE;WELCOME+TO+THE+MATRIX;DEEPSTATE+ACTIVATED" alt="Matrix Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=FOLLOW+THE+WHITE+RABBIT;DOWN+THE+RABBIT+HOLE;WELCOME+TO+THE+MATRIX;DEEPSTATE+ACTIVATED" alt="Matrix Typing" />
 
 ![Matrix Rain](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
@@ -10,22 +8,18 @@
 
 ```bash
 WhileTrueBlackObelizk@matrix:~$ whoami
-> alice@wonderland:/deep_state$ 
 
 WhileTrueBlackObelizk@matrix:~$ cat reality.txt
 > Anwendungsentwickler mit Leidenschaft für Cybersecurity & IT-Forensik
-> Following white rabbits through digital rabbit holes
-> Programming tools in the shadows of the deep state
-> Remember: I code for passion, not profession
 
 WhileTrueBlackObelizk@matrix:~$ ./enter_matrix.sh
 [████████████████████] 100% LOADING REALITY.EXE
-> WELCOME TO THE REAL WORLD, NEO...
+> WELCOME TO THE REAL WORLD...
 ```
 
 ---
 
-## 🐰 **FOLLOW THE WHITE RABBIT** 🐰
+## **FOLLOW THE WHITE RABBIT**
 
 <div align="center">
 
@@ -37,22 +31,22 @@ WhileTrueBlackObelizk@matrix:~$ ./enter_matrix.sh
 
 ---
 
-## 🔴💊 **RED PILL OR BLUE PILL?** 💙🔴
+## **RED PILL**
 
 ```cyberpunk
 ┌─[DEEP_STATE_PROTOCOL]─[ACTIVATED]───────────────────┐
 │                                                     │
-│  > RABBIT_HOLE_DEPTH: ████████████████░░░ 87%      │
-│  > MATRIX_BREACH: ████████████░░░░░ 67%             │
-│  > ALICE_PROTOCOL: ███████████████████░ 95%        │
-│  > OBELISK_POWER: ██████████████████████ 100%      │
+│  > RABBIT_HOLE_DEPTH: ████████████████░░░ 87%       │
+│  > MATRIX_BREACH:     ████████████░░░░░ 67%         │
+│  > ALICE_PROTOCOL:    ███████████████████░ 95%      │
+│  > OBELISK_POWER:     ██████████████████████ 100%   │
 │                                                     │
 └─────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🐍 **DIGITAL FOOTPRINTS IN THE MATRIX** 🐍
+## **DIGITAL FOOTPRINTS**
 
 <div align="center">
 
@@ -81,19 +75,11 @@ alice@deepstate:~$ ./monitor_access.sh
 
 ---
 
-## 📡 **CONTACT THE RESISTANCE** 📡
+## 📡 **CONTACT** 
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=red)](https://twitter.com/DEIN_HANDLE)
 [![Email](https://img.shields.io/badge/ENCRYPTED_EMAIL-000000?style=for-the-badge&logo=protonmail&logoColor=red)](mailto:deine@email.com)
-
-```bash
-alice@wonderland:~$ echo "How deep does the rabbit hole go?"
-> For cybersecurity collaboration, send encrypted transmission
-> Always searching for new rabbit holes to explore
-> The truth is out there... in the code
-```
 
 </div>
 
@@ -108,10 +94,6 @@ alice@wonderland:~$ echo "How deep does the rabbit hole go?"
 ---
 
 ```
-    ⚫ THE BLACK OBELISK STANDS ETERNAL ⚫
-    
-    "Curiouser and curiouser!" - Alice
-    
     REMEMBER: THERE IS NO SPOON
 ```
 
