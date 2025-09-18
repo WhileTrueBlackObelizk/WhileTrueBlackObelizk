@@ -79,8 +79,20 @@ alice@deepstate:~$ ./monitor_access.sh
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/ENCRYPTED_EMAIL-000000?style=for-the-badge&logo=protonmail&logoColor=red)](mailto:deine@email.com)
+[![Follow Rabbit](https://img.shields.io/badge/FOLLOW_RABBIT-000000?style=for-the-badge&logo=github&logoColor=red)](https://gist.github.com/WhileTrueBlackObelizk/ad6c47e7e77987570102005c68355c2a)
+```bash
+alice@deepstate:~$ ./matrix_contact_protocol.sh
+[LOADING] Accessing deep state contact protocols...
+[SUCCESS] White rabbit path located
+[HINT] Click the rabbit above to enter the rabbit hole
+[WARNING] Only cybersecurity professionals beyond this point
 
+alice@wonderland:~$ echo "Curiouser and curiouser..."
+> The Black Obelisk awaits your transmission
+> Follow the white rabbit for secure contact
+> Remember: All paths lead to the Matrix
+
+```
 </div>
 
 ---
