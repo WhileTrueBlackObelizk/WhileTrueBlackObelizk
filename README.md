@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=You+take+the+blue+pill+%E2%80%93+the+story+ends%2C;you+wake+up+in+your+bed+and+believe;whatever+you+want+to+believe.;You+take+the+red+pill+%E2%80%93+you+stay+in;Wonderland%2C+and+I+show+you+how+deep;the+rabbit+hole+goes" alt="Matrix Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=You+take+the+blue+pill+%E2%80%93+the+story+ends%2C;you+wake+up+in+your+bed+and+believe;whatever+you+want+to+believe.;You+take+the+red+pill+%E2%80%93+you+stay+in+Wonderland%2C;and+I+show+you+how+deep;the+rabbit+hole+goes" alt="Matrix Typing" />
 
 ![Matrix Rain](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
