@@ -25,6 +25,10 @@ WhileTrueBlackObelizk@matrix:~$ ./enter_matrix.sh
 
 <img src="https://github-readme-stats.vercel.app/api?username=WhileTrueBlackObelizk&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=00ff00&bg_color=000000&border_color=ff0000" alt="Matrix Stats" />
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhileTrueBlackObelizk&layout=compact&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=00ff00&bg_color=000000&border_color=ff0000&langs_count=8" alt="Top Languages" />
+</div>
+
 </div>
 
 ---
