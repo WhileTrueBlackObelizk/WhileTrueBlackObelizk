@@ -99,7 +99,7 @@ alice@wonderland:~$ echo "Curiouser and curiouser..."
 
 ## ⚠️ **SYSTEM BREACH DETECTED** ⚠️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=1500&pause=300&color=FF0000&background=000000&center=true&vCenter=true&width=700&lines=ACCESSING+DEEP_STATE_FILES...;BYPASSING+FIREWALL...;DOWNLOADING+RABBIT_HOLE_MAP...;ALICE_PROTOCOL+ENGAGED...;OBELISK+POWER+AT+MAXIMUM...;WAKE+UP,+NEO..." alt="Hacking Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=1500&pause=300&color=FF0000&background=000000&center=true&vCenter=true&width=700&lines=ACCESSING+DEEP_STATE_FILES...;BYPASSING+FIREWALL...;DOWNLOADING+RABBIT_HOLE_MAP...;ALICE_PROTOCOL+ENGAGED...;OBELISK+POWER+AT+MAXIMUM...;WAKE+UP,+NEO...;WHOAMI...;DANGER..." alt="Hacking Animation" />
 
 ---
 
