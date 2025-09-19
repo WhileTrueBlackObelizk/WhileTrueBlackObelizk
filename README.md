@@ -94,9 +94,6 @@ alice@wonderland:~$ echo "Curiouser and curiouser..."
 
 ```
 </div>
-
----
-
 <div align="center">
 
 ## ⚠️ **SYSTEM BREACH DETECTED** ⚠️
