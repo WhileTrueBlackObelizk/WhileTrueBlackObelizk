@@ -10,7 +10,7 @@
 WhileTrueBlackObelizk@matrix:~$ whoami
 
 WhileTrueBlackObelizk@matrix:~$ cat reality.txt
-> Anwendungsentwickler mit Leidenschaft für Cybersecurity & IT-Forensik
+> Anwendungsentwickler mit Leidenschaft für Cybersecurity, IT-Forensik & einzigartige Projekte
 
 WhileTrueBlackObelizk@matrix:~$ ./enter_matrix.sh
 [████████████████████] 100% LOADING REALITY.EXE
