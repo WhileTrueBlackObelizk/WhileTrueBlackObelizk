@@ -28,7 +28,7 @@ WhileTrueBlackObelizk@matrix:~$ ./enter_matrix.sh
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhileTrueBlackObelizk&hide_progress=true" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhileTrueBlackObelizk&hide_progress=false" alt="Top Langs">
 </div>
 
 ---
