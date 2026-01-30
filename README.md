@@ -24,11 +24,11 @@ WhileTrueBlackObelizk@matrix:~$ ./enter_matrix.sh
 ## **FOLLOW THE WHITE RABBIT**
 
 <div align="center">
-
-<img src=![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhileTrueBlackObelizk&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=WhileTrueBlackObelizk&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+</div>
 
 <div align="center">
-<img src=![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhileTrueBlackObelizk&hide_progress=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhileTrueBlackObelizk&hide_progress=true" alt="Top Langs">
 </div>
 
 ---
