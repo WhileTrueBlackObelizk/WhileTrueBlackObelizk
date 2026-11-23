@@ -31,7 +31,7 @@ Ich baue Backends mit **Java/Spring Boot** und **Python/FastAPI**, Web-Frontends
 
 ### Kontakt
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suren_Frey-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suren-frey-8b2278232)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suren_Frey-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surenfrey)
 [![Website](https://img.shields.io/badge/Web-surenfrey.de-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://surenfrey.de)
 
 <picture>
