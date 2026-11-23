@@ -12,7 +12,7 @@ Ich baue Backends mit **Java/Spring Boot** und **Python/FastAPI**, Web-Frontends
 | Projekt | Worum es geht | Stack |
 |---|---|---|
 | [**SecureVault**](https://github.com/WhileTrueBlackObelizk/securevault) | Selbst gehosteter Passwort- und Notizen-Manager: jeder Eintrag wird vor dem Speichern mit AES-256-GCM verschlüsselt, Login über JWT, Passwörter mit BCrypt | Java 17 · Spring Boot 3 · Spring Security · JPA · JUnit 5 · Docker · GitHub Actions |
-| **Parkify** *(privat, Code auf Anfrage)* | Peer-to-Peer-Marktplatz für private Parkplätze | React 19 · TypeScript · Firebase |
+| **Park-App** *(in Produktion, privat)* | Peer-to-Peer-Marktplatz für private Parkplätze | React 19 · TypeScript · Firebase |
 | **Unternehmens-OS-Layer** *(privat, Code auf Anfrage)* | Zentraler MCP-Server: KI-Assistenten arbeiten mit Projektkontext, festen Regeln und menschlicher Freigabe | Python · MCP |
 | [**AP2-Lerntool**](https://github.com/WhileTrueBlackObelizk/ap2-lerntool) · [Live](https://whiletrueblackobelizk.github.io/ap2-lerntool/) | Prüfungstrainer für FIAE-Prüflinge: rund 900 Aufgaben mit automatischer Bewertung, SQL-Übungen, UML/ERM-Editor, Prüfungssimulation | JavaScript · HTML/CSS |
 | [**Shared Workspace MCP**](https://github.com/WhileTrueBlackObelizk/shared-workspace-mcp) | Gemeinsamer Speicher und geprüfte Übergaben zwischen KI-Agenten | Python · MCP · CI |
