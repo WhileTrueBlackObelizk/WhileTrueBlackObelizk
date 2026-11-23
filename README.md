@@ -22,10 +22,10 @@ Ich baue Backends mit **Java/Spring Boot** und **Python/FastAPI**, Web-Frontends
 
 ### Tech-Stack
 
-**Backend:** Java · Spring Boot · Spring Security · Python · FastAPI · C# · ASP.NET Core · REST
-**Frontend:** TypeScript · React · HTML/CSS
-**Daten & Betrieb:** PostgreSQL · MariaDB · SQLite · Docker · Linux · Proxmox · Ansible · GitHub Actions
-**KI & Automatisierung:** Model Context Protocol (MCP) · KI-Agenten · n8n
+- **Backend:** Java · Spring Boot · Spring Security · Python · FastAPI · C# · ASP.NET Core · REST
+- **Frontend:** TypeScript · React · HTML/CSS
+- **Daten & Betrieb:** PostgreSQL · MariaDB · SQLite · Docker · Linux · Proxmox · Ansible · GitHub Actions
+- **KI & Automatisierung:** Model Context Protocol (MCP) · KI-Agenten · n8n
 
 ---
 
