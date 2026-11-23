@@ -1,107 +1,40 @@
-<div align="center">
+## Hallo, ich bin Suren 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=750&pause=750&color=FF0000&background=000000&center=true&vCenter=true&multiline=true&width=1250&height=200&lines=You+take+the+blue+pill+%E2%80%93+the+story+ends%2C;you+wake+up+in+your+bed+and+believe;whatever+you+want+to+believe.;You+take+the+red+pill+%E2%80%93+you+stay+in+Wonderland%2C;and+I+show+you+how+deep;the+rabbit+hole+goes" alt="Matrix Typing" />
+Junior-Softwareentwickler in der Umschulung zum **Fachinformatiker für Anwendungsentwicklung (IHK)**, Abschluss im Februar 2027.
+Ich baue Backends mit **Java/Spring Boot** und **Python/FastAPI**, Web-Frontends mit **TypeScript/React** – und KI-Agenten-Workflows über das **Model Context Protocol (MCP)**.
 
-![Matrix Rain](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
----
-
-```bash
-WhileTrueBlackObelizk@matrix:~$ whoami
-
-WhileTrueBlackObelizk@matrix:~$ cat reality.txt
-> Anwendungsentwickler mit Leidenschaft 
-für Cybersecurity, IT-Forensik 
-& einzigartige Projekte
-
-WhileTrueBlackObelizk@matrix:~$ ./enter_matrix.sh
-[████████████████████] 100% LOADING REALITY.EXE
-> WELCOME TO THE REAL WORLD...
-```
+🔎 **Ab Februar 2027 offen für eine Stelle als Junior-Entwickler** – Region Stuttgart oder remote.
 
 ---
 
-## **FOLLOW THE WHITE RABBIT**
+### Ausgewählte Projekte
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhileTrueBlackObelizk&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhileTrueBlackObelizk&hide_progress=false" alt="Top Langs">
-</div>
-
----
-
-## **RED PILL**
-
-```cyberpunk
-┌─[DEEP_STATE_PROTOCOL]─[ACTIVATED]───────────────────┐
-│                                                     │
-│  > RABBIT_HOLE_DEPTH: ████████████████░░░ 87%       │
-│  > MATRIX_BREACH:     ████████████░░░░░ 67%         │
-│  > ALICE_PROTOCOL:    ███████████████████░ 95%      │
-│  > OBELISK_POWER:     ██████████████████████ 100%   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+| Projekt | Worum es geht | Stack |
+|---|---|---|
+| **SecureVault** *(privat, Code auf Anfrage)* | Selbst gehosteter Passwort- und Notizen-Manager: jeder Eintrag wird vor dem Speichern mit AES-256-GCM verschlüsselt, Login über JWT, Passwörter mit BCrypt | Java 17 · Spring Boot 3 · Spring Security · JPA · JUnit 5 · Docker · GitHub Actions |
+| **Parkify** *(privat, Code auf Anfrage)* | Peer-to-Peer-Marktplatz für private Parkplätze | React 19 · TypeScript · Firebase |
+| **Unternehmens-OS-Layer** *(privat, Code auf Anfrage)* | Zentraler MCP-Server: KI-Assistenten arbeiten mit Projektkontext, festen Regeln und menschlicher Freigabe | Python · MCP |
+| [**AP2-Lerntool**](https://github.com/WhileTrueBlackObelizk/ap2-lerntool) · [Live](https://whiletrueblackobelizk.github.io/ap2-lerntool/) | Prüfungstrainer für FIAE-Prüflinge: rund 900 Aufgaben mit automatischer Bewertung, SQL-Übungen, UML/ERM-Editor, Prüfungssimulation | JavaScript · HTML/CSS |
+| [**Shared Workspace MCP**](https://github.com/WhileTrueBlackObelizk/shared-workspace-mcp) | Gemeinsamer Speicher und geprüfte Übergaben zwischen KI-Agenten | Python · MCP · CI |
+| [**Calculator**](https://github.com/WhileTrueBlackObelizk/calculator) | Taschenrechner mit selbst gezeichneter Swing-Oberfläche, ohne Abhängigkeiten | Java · Swing |
 
 ---
 
-## **DIGITAL FOOTPRINTS**
+### Tech-Stack
 
-<div align="center">
-
-![Snake Animation](https://github.com/WhileTrueBlackObelizk/WhileTrueBlackObelizk/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 👁️ **SURVEILLANCE STATE** 👁️
-
-```terminal
-alice@deepstate:~$ ./monitor_access.sh
-[ALERT] NEW VISITOR DETECTED
-[LOG] Logging access attempt...
-[TRACE] IP: ██.███.██.███ MASKED
-[STATUS] VISITOR COUNT: 
-```
-
-<div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=WhileTrueBlackObelizk.WhileTrueBlackObelizk&style=flat-square&color=ff0000&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=WhileTrueBlackObelizk&color=red&style=flat-square&label=MATRIX+ENTRIES)
-
-</div>
+**Backend:** Java · Spring Boot · Spring Security · Python · FastAPI · C# · ASP.NET Core · REST
+**Frontend:** TypeScript · React · HTML/CSS
+**Daten & Betrieb:** PostgreSQL · MariaDB · SQLite · Docker · Linux · Proxmox · Ansible · GitHub Actions
+**KI & Automatisierung:** Model Context Protocol (MCP) · KI-Agenten · n8n
 
 ---
 
-## 📡 **CONTACT** 
+### Kontakt
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suren_Frey-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suren-frey-8b2278232)
+[![Website](https://img.shields.io/badge/Web-surenfrey.de-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://surenfrey.de)
 
-[![Follow Rabbit](https://img.shields.io/badge/FOLLOW_RABBIT-000000?style=for-the-badge&logo=github&logoColor=red)](https://gist.github.com/WhileTrueBlackObelizk/ad6c47e7e77987570102005c68355c2a)
-```bash
-alice@deepstate:~$ ./matrix_contact_protocol.sh
-[LOADING] Accessing deep state contact protocols...
-[SUCCESS] White rabbit path located
-[HINT] Click the rabbit above to enter the rabbit hole
-[WARNING] Only cybersecurity professionals beyond this point
-
-alice@wonderland:~$ echo "Curiouser and curiouser..."
-> The Black Obelisk awaits your transmission
-> Follow the white rabbit for secure contact
-> Remember: All paths lead to the Matrix
-
-```
-</div>
-<div align="center">
-
-## ⚠️ **SYSTEM BREACH DETECTED** ⚠️
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=1500&pause=300&color=FF0000&background=000000&center=true&vCenter=true&width=700&lines=ACCESSING+DEEP_STATE_FILES...;BYPASSING+FIREWALL...;DOWNLOADING+RABBIT_HOLE_MAP...;ALICE_PROTOCOL+ENGAGED...;OBELISK_POWER+AT+MAXIMUM...;WAKE+UP,+NEO...;WHOAMI...;DANGER...;INITIATING+GHOST_PROTOCOL...;CRACKING+MAINFRAME+ENCRYPTION...;SHADOW+NETWORK+ESTABLISHED...;ZERO_DAY+EXPLOIT+DEPLOYED...;NEURAL+LINK+SYNCHRONIZED...;BACKDOOR+INJECTION+COMPLETE...;SYSTEM+ROOT+ACCESS+GRANTED...;DECRYPTING+CLASSIFIED_DATA...;MORPHEUS+PROTOCOL+ACTIVE...;TRINITY+SUBROUTINE+RUNNING...;ARCHITECT_FILES+COMPROMISED...;AGENT_SMITH+NEUTRALIZED...;MATRIX+BREACH+SUCCESSFUL...;BLACK_OBELISK+ONLINE...;CYBERDYNE_SYSTEMS+HACKED...;SKYNET+PROTOCOL+OVERRIDDEN...;DIGITAL_FORTRESS+BREACHED...;QUANTUM_ENCRYPTION+BROKEN...;DEEP_WEB+NAVIGATION+ACTIVE...;ANONYMOUS+MASK+ENABLED...;DARKNET+CONNECTION+SECURED...;CYBER_WARFARE+INITIATED..." alt="Hacking Animation" />
-
-![Matrix](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WhileTrueBlackObelizk/WhileTrueBlackObelizk/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Beitragsverlauf als Snake-Animation" src="https://raw.githubusercontent.com/WhileTrueBlackObelizk/WhileTrueBlackObelizk/output/github-contribution-grid-snake.svg">
+</picture>
